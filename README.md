@@ -1,4 +1,4 @@
---มึงดูคลิปให้จบด้วย--
+--อย่าลืมFOOL HUB--
 
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
